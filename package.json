@@ -1,0 +1,24 @@
+{
+  "name": "platzi-curso-npm",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Gestión de Dependencias y Paquetes con NPM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiguera/platzi-curso-npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Kevin Figuera <kfiguera@smartwebtools.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfiguera/platzi-curso-npm/issues"
+  },
+  "homepage": "https://github.com/kfiguera/platzi-curso-npm#readme"
+}
