@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/kfiguera/platzi-curso-npm#readme",
   "dependencies": {
-    "json-server": "^0.15.0",
     "moment": "^2.29.1"
   },
   "devDependencies": {
